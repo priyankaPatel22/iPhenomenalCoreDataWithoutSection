@@ -1,0 +1,2 @@
+# iPhenomenalCoreDataWithoutSection
+CoreData Without SectionBar
